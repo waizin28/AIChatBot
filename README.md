@@ -72,9 +72,8 @@ print(response)
 
 ## 🧪 Development
 
-* `chatbot.py` — core logic for ingestion and Q\&A
 * `requirements.txt` — project dependencies
-* `example_notebook.ipynb` — interactive notebook demo
+* `question_answering_on_pdf.ipynb` — interactive notebook demo
 
 ---
 
