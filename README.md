@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your AI chatbot project built using **LangChain**, **OpenAI**, and **Pinecone**:
-
----
-
 # 🧠 AI Chatbot with LangChain, OpenAI, and Pinecone
 
 An intelligent, context-aware chatbot built with Python using **LangChain**, **OpenAI**, and **Pinecone** for semantic search and conversational memory.
